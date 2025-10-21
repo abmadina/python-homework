@@ -1,0 +1,31 @@
+side=float(input("enter the length of the side"))
+perimeter = 4*side
+area=side*side
+
+print("Perimeter of the square", perimeter)
+PRINT("Area of the square", area)
+
+side=float(input("enter the diametr of the side"))
+circle length=diametr*math.pi
+ print("circle length")
+
+
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+mean = (a + b) / 2
+
+print("Mean of the two numbers:", mean)
+
+
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+
+sum_ab = a + b
+product_ab = a * b
+square_a = a ** 2
+square_b = b ** 2
+
+print("Sum:", sum_ab)
+print("Product:", product_ab)
+print("Square of first number:", square_a)
+print("Square of second number:", square_b)
